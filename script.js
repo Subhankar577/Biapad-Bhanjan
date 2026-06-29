@@ -65,9 +65,9 @@ const ABOUT_FEATURES = [
 ];
 
 const CONTACT_INFO = [
-    {icon:"fa-map-marker-alt",title:"Our Location",text:"123 Health Street, Medical Colony<br>New Delhi - 110001"},
-    {icon:"fa-phone-alt",title:"Phone Numbers",text:"+91 98765 43210<br>+91 11 2345 6789"},
-    {icon:"fa-envelope",title:"Email Address",text:"info@medicareplus.com<br>support@medicareplus.com"},
+    {icon:"fa-map-marker-alt",title:"Our Location",text:"Debra,Baragar, Alisagar, West Bengal 721126"},
+    {icon:"fa-phone-alt",title:"Phone Numbers",text:"+91 9475885973<br>+91 9093540521"},
+    {icon:"fa-envelope",title:"Email Address",text:"info@biapad_bhanjan.com<br>support@biapad_bhanjan.com"},
     {icon:"fa-clock",title:"Working Hours",text:"Mon-Sat: 8AM - 10PM<br>Sunday: 9AM - 6PM"}
 ];
 
